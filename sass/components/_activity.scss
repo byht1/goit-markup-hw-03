@@ -2,8 +2,6 @@
   padding-top: 47px;
   padding-bottom: 94px;
   &__header {
-    margin: 0 15px;
-
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
@@ -18,7 +16,6 @@
 
 .photo {
   display: flex;
-  margin: 0 15px;
   margin-top: 50px;
 
   &__elements {

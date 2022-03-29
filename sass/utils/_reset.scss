@@ -29,8 +29,11 @@ input {
   margin: 0;
 }
 
-.field {
-  padding: 0 calc((100% - 1200px) / 2);
+.conteiner {
+  max-width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 calc((100% - 1200px) / 2);
 }
 
 .visually-hidden {
