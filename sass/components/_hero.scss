@@ -3,13 +3,12 @@
   // background-image: url(../images/fon.jpg);
   // max-width: 1600px;
   height: 600px;
-  padding-top: 200px;
-  padding-bottom: 200px;
   background-color: #2f303a;
 }
 
 .box-hero {
-  margin: 0 15px;
+  padding-top: 200px;
+  padding-bottom: 200px;
 
   &__header {
     margin-bottom: 30px;

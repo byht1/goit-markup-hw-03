@@ -43,8 +43,10 @@
 }
 
 .text {
+  padding-top: 30px;
+  padding-bottom: 16px;
+
   &__name {
-    margin-top: 30px;
     margin-bottom: 10px;
 
     font-family: 'Roboto';
@@ -59,8 +61,6 @@
   }
 
   &__profession {
-    margin-bottom: 16px;
-
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
